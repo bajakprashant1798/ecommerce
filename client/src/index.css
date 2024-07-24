@@ -1,0 +1,25 @@
+@import url("./App.css");
+@import url("./components/header/Header.css");
+@import url("./components/mainpage/products/product.css");
+@import url("./components/mainpage/utils/detailProducts/detailProduct.css");
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+a{
+  text-decoration: none;
+}
+
+ul li{
+  list-style: none;
+}
+
+button{
+  border: none;
+  outline:none;
+  background:transparent;
+  cursor: pointer;
+}
